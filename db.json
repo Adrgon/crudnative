@@ -1,0 +1,53 @@
+{
+  "clientes": [
+    {
+      "nombre": "Lucas",
+      "telefono": "4454554545",
+      "correo": "Lucas@lucas.com",
+      "empresa": "Falcon",
+      "id": 3
+    },
+    {
+      "nombre": "Agustin",
+      "telefono": "3414352345",
+      "correo": "Agus@agus",
+      "empresa": "Gonzalez Hnos",
+      "id": 5
+    },
+    {
+      "nombre": "Adrian",
+      "telefono": "141234",
+      "correo": "Correo@correo",
+      "empresa": "Asdfasd",
+      "id": 6
+    },
+    {
+      "nombre": "Geraldina",
+      "telefono": "1342134",
+      "correo": "Correo@correo",
+      "empresa": "Asdfasdf",
+      "id": 7
+    },
+    {
+      "nombre": "Kiara",
+      "telefono": "14234",
+      "correo": "Correo@correo",
+      "empresa": "Sdfasdf",
+      "id": 8
+    },
+    {
+      "nombre": "Daiana",
+      "telefono": "3241234",
+      "correo": "Correo@correo",
+      "empresa": "Adfasd",
+      "id": 9
+    },
+    {
+      "nombre": "Sara",
+      "telefono": "6666666",
+      "correo": "Sara@sara.com",
+      "empresa": "Admisara",
+      "id": 10
+    }
+  ]
+}
